@@ -23,3 +23,9 @@ git --version
 ```sh
 git add
 ```
+
+## Сохранение с сообщением 
+
+```sh
+git commit -m "Commit message"
+```
