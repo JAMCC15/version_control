@@ -29,3 +29,9 @@ git add
 ```sh
 git commit -m "Commit message"
 ```
+
+## История коммитов 
+
+```sh
+git log
+```
