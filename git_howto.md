@@ -42,4 +42,8 @@ git log
 git checkout <commit>
 ```
 
-## 
+## Открывает конкретную ветку 
+
+```sh
+git checkout <branch_name>
+```
