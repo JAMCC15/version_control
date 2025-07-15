@@ -12,3 +12,9 @@ git init
 git status
 ```
 
+## Версия Git
+
+```sh
+git --version
+```
+
