@@ -53,3 +53,9 @@ git checkout <branch_name>
 ```sh
 git diff
 ```
+
+## Показывает какие ветки есть и на какой мы сейчас находимся 
+
+```sh
+git branch
+```
