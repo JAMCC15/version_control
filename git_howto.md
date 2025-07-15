@@ -66,3 +66,8 @@ git branch
 git merge <branchname>
 ```
 
+## Создать локальный репозиторий из гитхаба
+
+```sh
+git clone [url]
+```
