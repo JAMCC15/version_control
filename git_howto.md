@@ -59,3 +59,10 @@ git diff
 ```sh
 git branch
 ```
+
+## Заливает выбранную ветку в ту на которой сейчас находимся
+
+```sh
+git merge <branchname>
+```
+
