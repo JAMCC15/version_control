@@ -35,3 +35,11 @@ git commit -m "Commit message"
 ```sh
 git log
 ```
+
+## Открывает конкретное сохранение 
+
+```sh
+git checkout <commit>
+```
+
+## 
