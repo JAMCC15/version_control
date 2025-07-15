@@ -18,3 +18,8 @@ git status
 git --version
 ```
 
+## Добавление файла в репозиторий 
+
+```sh
+git add
+```
