@@ -47,3 +47,9 @@ git checkout <commit>
 ```sh
 git checkout <branch_name>
 ```
+
+## Показывает разницу между послдней закомиченной версией и текущей 
+
+```sh
+git diff
+```
