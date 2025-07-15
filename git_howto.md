@@ -71,3 +71,9 @@ git merge <branchname>
 ```sh
 git clone [url]
 ```
+
+## Отправить версию в интеренет 
+
+```sh
+git push
+```
